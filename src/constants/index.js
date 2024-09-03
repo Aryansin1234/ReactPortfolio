@@ -136,7 +136,7 @@ const projects = [
     img: braintumor,
     carousel: [brain1, brain2],
     source_link: 'https://github.com/Aryansin1234/Brain-Tumor-Detection-Application',
-    live_link: '',
+    live_link: 'http://www.devopsjourney.tech',
   },
   {
     id: 2,
