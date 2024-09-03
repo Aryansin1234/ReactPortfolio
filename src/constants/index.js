@@ -225,7 +225,7 @@ const testimonials = [
     id: 1,
     name: 'Mohd Shuaib',
     image: 'https://media.licdn.com/dms/image/v2/D5603AQEBZyFAp58d6Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718602013471?e=1730937600&v=beta&t=Y43qmEKi8YJeBw9Rwn0dtRsmwwxrei_uJ3Ufqwv1jcs',
-    text: 'Throughout the research project, Aryan displayed remarkable skill and dedication. Their innovative approach and technical proficiency in deep learning were impressive and significantly contributed to our work. I am confident in their future success and highly recommend them.',
+    text: 'Aryan showcased exceptional skills and dedication in our research project, making significant contributions with his innovative deep learning expertise. I highly recommend him for future success.',
     country: 'India',
     linkedIn: 'https://www.linkedin.com/in/mohd-shuaib6428/',
   },
