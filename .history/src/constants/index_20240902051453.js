@@ -141,7 +141,7 @@ const projects = [
   {
     id: 2,
     name: 'Thinking About it',
-    desc: 'Finding something interesting to build and showcase',
+    desc: 'Finding something interesting to buidl and showcase',
     tech: [],
     img: project1,
     carousel: [],
@@ -161,7 +161,7 @@ const projects = [
   {
     id: 4,
     name: 'Thinking About it',
-    desc: 'Finding something interesting to build and showcase',
+    desc: 'Finding something interesting to buidl and showcase',
     tech: [],
     img: project4,
     carousel: [],
@@ -171,7 +171,7 @@ const projects = [
   {
     id: 5,
     name: 'Thinking About it',
-    desc: 'Finding something interesting to build and showcase',
+    desc: 'Finding something interesting to buidl and showcase',
     tech: [],
     img: project3,
     carousel: [],
@@ -191,7 +191,7 @@ const projects = [
   {
     id: 7,
     name: 'Thinking About it',
-    desc: 'Finding something interesting to build and showcase',
+    desc: 'Finding something interesting to buidl and showcase',
     tech: [],
     img: project1,
     carousel: [],
@@ -211,7 +211,7 @@ const projects = [
   {
     id: 9,
     name: 'Thinking About it',
-    desc: 'Finding something interesting to build and showcase',
+    desc: 'Finding something interesting to buidl and showcase',
     tech: [],
     img: project3,
     carousel: [],
@@ -224,7 +224,7 @@ const testimonials = [
   {
     id: 1,
     name: 'Mohd Shuaib',
-    image: 'https://media.licdn.com/dms/image/v2/D5603AQF6apBqbRF4lg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726217045860?e=1733356800&v=beta&t=CZX9I2_CGWv_-p6xCbCaCh84JBRzm-nxAuub_BFoP48',
+    image: 'https://media.licdn.com/dms/image/v2/D5603AQEBZyFAp58d6Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718602013471?e=1730937600&v=beta&t=Y43qmEKi8YJeBw9Rwn0dtRsmwwxrei_uJ3Ufqwv1jcs',
     text: 'Throughout the research project, Aryan displayed remarkable skill and dedication. Their innovative approach and technical proficiency in deep learning were impressive and significantly contributed to our work. I am confident in their future success and highly recommend them.',
     country: 'India',
     linkedIn: 'https://www.linkedin.com/in/mohd-shuaib6428/',
@@ -239,37 +239,12 @@ const testimonials = [
   },
   {
     id: 3,
-    name: 'Aditya Joshi',
-    image: 'https://media.licdn.com/dms/image/v2/D5603AQG3R5b6enjmWQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714320391808?e=1733356800&v=beta&t=_4RbnuoQUNDlAbt280A1_e0j9NABqBa0mwmKBZXqjaI', 
-    text: 'Aryan is an enthusiastic and dedicated learner with a knack for exploring creative and innovative ideas. His research work showcases his curiosity and ability to tackle complex problems. I am confident in his potential to excel in whatever he sets his mind to.',
-    country: 'India',
-    linkedIn: 'https://www.linkedin.com/in/aditya-joshi-4b626a20'
+    name: 'Muhammad Talha Hanif',
+    image: 'https://media.licdn.com/dms/image/D4D03AQF6A-cET7akGQ/profile-displayphoto-shrink_400_400/0/1687861230806?e=1726099200&v=beta&t=C1jrASsQ8AXgmkVrndSBMyBfh7eTBQ_pe2VG79FSNN0',
+    text: 'He possesses a deep understanding of the latest technologies and trends in his field, allowing him to tackle complex challenges with ease.',
+    country: 'Pakistan',
+    linkedIn: 'https://www.linkedin.com/in/muhammad-talha-hanif/',
   },
-  {
-    id: 4,
-    name: 'Divyanshu Rajwar',
-    image: 'https://media.licdn.com/dms/image/v2/D4D03AQE0Lmhw-nGQoA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1692676677805?e=1733356800&v=beta&t=tklrb_PFCQ3skl49xOVgj7y1ltGTAY0Vq7RDywSWhU0',
-    text: "Working with Aryan on full-stack projects has been a pleasure. His cloud and DevOps expertise is invaluable for deploying complex applications. Aryan is always the go-to person for innovative solutions and smooth deployments, making collaboration effortless.",
-    country: 'India',
-    linkedIn: 'https://www.linkedin.com/in/divyanshurajwar',
-  },
-  {
-    id: 5,
-    name: 'Vanshika Muniyal',
-    image: 'https://media.licdn.com/dms/image/v2/D5603AQE6ALpNcMRFMQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726232038579?e=1733356800&v=beta&t=yNHZC9Rk0k7im3s3QokJhTbS0FOiHNmJdUtog-VaoYw',
-    text: "Collaborating with Aryan on our coursework and my plant disease detection project was a fantastic experience. His innovative ideas and hands-on support during the project setup were invaluable, and his friendly, approachable nature made the entire process much easier and more fun.",
-    country: 'India',
-    linkedIn: 'https://www.linkedin.com/in/vanshika-muniyal-ba6a9725b',
-  },
-  {
-    id: 6,
-    name: 'Ashmit Singh',
-    image: 'https://media.licdn.com/dms/image/D4E03AQHd0zi0BxFCgg/profile-displayphoto-shrink_800_800/0/1692287244105?e=1730937600&v=beta&t=6JG4GIpHpfJ_KaFFgW6Bbl37DFNrfi5JRMpDk17rh_k',
-    text: 'Aryan has been an amazing partner on my skin cancer detection project! His innovative ideas and keen insights always take our discussions to the next level. I truly appreciate his support and creativity—he makes the process not just productive but also enjoyable!',
-    country: 'India',
-    linkedIn: 'https://www.linkedin.com/in/ashmit-singh-376799328',
-  }
-
 ];
 
 const services = [

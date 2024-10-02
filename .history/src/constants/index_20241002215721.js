@@ -251,25 +251,9 @@ const testimonials = [
     image: 'https://media.licdn.com/dms/image/v2/D4D03AQE0Lmhw-nGQoA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1692676677805?e=1733356800&v=beta&t=tklrb_PFCQ3skl49xOVgj7y1ltGTAY0Vq7RDywSWhU0',
     text: "Working with Aryan on full-stack projects has been a pleasure. His cloud and DevOps expertise is invaluable for deploying complex applications. Aryan is always the go-to person for innovative solutions and smooth deployments, making collaboration effortless.",
     country: 'India',
-    linkedIn: 'https://www.linkedin.com/in/divyanshurajwar',
+    linkedIn: 'https://www.linkedin.com/in/thegurjararyan/',
   },
-  {
-    id: 5,
-    name: 'Vanshika Muniyal',
-    image: 'https://media.licdn.com/dms/image/v2/D5603AQE6ALpNcMRFMQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726232038579?e=1733356800&v=beta&t=yNHZC9Rk0k7im3s3QokJhTbS0FOiHNmJdUtog-VaoYw',
-    text: "Collaborating with Aryan on our coursework and my plant disease detection project was a fantastic experience. His innovative ideas and hands-on support during the project setup were invaluable, and his friendly, approachable nature made the entire process much easier and more fun.",
-    country: 'India',
-    linkedIn: 'https://www.linkedin.com/in/vanshika-muniyal-ba6a9725b',
-  },
-  {
-    id: 6,
-    name: 'Ashmit Singh',
-    image: 'https://media.licdn.com/dms/image/D4E03AQHd0zi0BxFCgg/profile-displayphoto-shrink_800_800/0/1692287244105?e=1730937600&v=beta&t=6JG4GIpHpfJ_KaFFgW6Bbl37DFNrfi5JRMpDk17rh_k',
-    text: 'Aryan has been an amazing partner on my skin cancer detection project! His innovative ideas and keen insights always take our discussions to the next level. I truly appreciate his support and creativity—he makes the process not just productive but also enjoyable!',
-    country: 'India',
-    linkedIn: 'https://www.linkedin.com/in/ashmit-singh-376799328',
-  }
-
+  
 ];
 
 const services = [

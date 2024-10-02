@@ -54,8 +54,8 @@ import trackbuget5 from './carousels/track budget screenshot 5.png';
 import carrental1 from './carousels/car rental screenshot 1.png';
 import carrental2 from './carousels/car rental screenshot 2.png';
 import carrental3 from './carousels/car rental screenshot 3.png';
-import brain1 from './carousels/brain1.png'
-import brain2 from './carousels/brain2.png'
+import brain1 from './carousels/brain2.png'
+import brain2 from './carousels/brain3.png'
 
 
 
