@@ -38,7 +38,7 @@ const Footer = () => (
       ))}
     </div>
     <abbr title="Source Code" className={style.p}>
-      <a href="https://github.com/Aryansin1234/MyReactPortfolio" target="_blank" className={style.a} rel="noreferrer">
+      <a href="https://github.com/Aryansin1234/ReactPortfolio" target="_blank" className={style.a} rel="noreferrer">
         Brought into being by
         {' '}
         <span className={style.span}>©</span>
