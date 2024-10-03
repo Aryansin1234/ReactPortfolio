@@ -130,9 +130,9 @@ const technologies = [
 const projects = [
   {
     id: 1,
-    name: 'Brain Tumor Detection App',
+    name: 'Neuro Detect',
     desc: 'Developed a Dockerized Flask application for brain tumor detection using EfficientNetB3 and deployed it on a cloud platform with Kubernetes for scalable container management. Automated infrastructure provisioning with Terraform and set up a Jenkins CI/CD pipeline for seamless deployment.',
-    tech: ['Python', 'TensorFlow', 'Docker', 'Terraform','AWS'],
+    tech: ['Python', 'AI/ML', 'Docker', 'Terraform','AWS'],
     img: braintumor,
     carousel: [brain1, brain2],
     source_link: 'https://github.com/Aryansin1234/Brain-Tumor-Detection-Application',
