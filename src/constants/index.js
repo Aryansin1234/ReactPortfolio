@@ -224,7 +224,7 @@ const testimonials = [
   {
     id: 1,
     name: 'Mohd Shuaib',
-    image: 'https://media.licdn.com/dms/image/v2/D5603AQF6apBqbRF4lg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726217045860?e=1733356800&v=beta&t=CZX9I2_CGWv_-p6xCbCaCh84JBRzm-nxAuub_BFoP48',
+    image: 'https://media.licdn.com/dms/image/v2/D5603AQF6apBqbRF4lg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726217045860?e=1740009600&v=beta&t=3mjkYzRxXu8Ko5-bVloIqaHMyiCcWlJTPAwxey89tEM',
     text: 'Aryan showcased exceptional skills and dedication in our research project, making significant contributions with his innovative deep learning expertise. I highly recommend him for future success.',
     country: 'India',
     linkedIn: 'https://www.linkedin.com/in/mohd-shuaib6428/',
@@ -232,7 +232,7 @@ const testimonials = [
   {
     id: 2,
     name: 'Aryan Chaudhary',
-    image: 'https://media.licdn.com/dms/image/v2/D5603AQGO_NSTm1osIw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711988727837?e=1730937600&v=beta&t=hTqyZY74hpfG4cXrE8rkMqbhZvVtE4DSM6WBjh7IfF0',
+    image: 'https://media.licdn.com/dms/image/v2/D5603AQGO_NSTm1osIw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711988727837?e=1740009600&v=beta&t=fkrzLwpzgPil1DCu8BmX4zQDf6-ty7PuYgpAMnK9YY4',
     text: "Working with Aryan has been awesome! He was a big help on our mango leaf disease detection project, from Dockerizing to deploying it on the cloud. His skills are impressive, and I'm excited to work on more projects together!",
     country: 'India',
     linkedIn: 'https://www.linkedin.com/in/thegurjararyan/',
@@ -240,7 +240,7 @@ const testimonials = [
   {
     id: 3,
     name: 'Aditya Joshi',
-    image: 'https://media.licdn.com/dms/image/v2/D5603AQG3R5b6enjmWQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714320391808?e=1733356800&v=beta&t=_4RbnuoQUNDlAbt280A1_e0j9NABqBa0mwmKBZXqjaI', 
+    image: 'https://media.licdn.com/dms/image/v2/D5603AQG3R5b6enjmWQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714320391808?e=1740009600&v=beta&t=qu3DoQt0dqrVW3vOyJ0MUfya8aMEWmP37QS0rBRUack', 
     text: 'Aryan is an enthusiastic and dedicated learner with a knack for exploring creative and innovative ideas. His research work showcases his curiosity and ability to tackle complex problems. I am confident in his potential to excel in whatever he sets his mind to.',
     country: 'India',
     linkedIn: 'https://www.linkedin.com/in/aditya-joshi-4b626a20'
@@ -248,7 +248,7 @@ const testimonials = [
   {
     id: 4,
     name: 'Divyanshu Rajwar',
-    image: 'https://media.licdn.com/dms/image/v2/D4D03AQE0Lmhw-nGQoA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1692676677805?e=1733356800&v=beta&t=tklrb_PFCQ3skl49xOVgj7y1ltGTAY0Vq7RDywSWhU0',
+    image: 'https://media.licdn.com/dms/image/v2/D4D03AQE0Lmhw-nGQoA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1692676677805?e=1740009600&v=beta&t=Ek2599taoML2BhhK--h0XmqBbeBGs79X3jB6xZ-ERjs',
     text: "Working with Aryan on full-stack projects has been a pleasure. His cloud and DevOps expertise is invaluable for deploying complex applications. Aryan is always the go-to person for innovative solutions and smooth deployments, making collaboration effortless.",
     country: 'India',
     linkedIn: 'https://www.linkedin.com/in/divyanshurajwar',
@@ -256,7 +256,7 @@ const testimonials = [
   {
     id: 5,
     name: 'Vanshika Muniyal',
-    image: 'https://media.licdn.com/dms/image/v2/D5603AQE6ALpNcMRFMQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726232038579?e=1733356800&v=beta&t=yNHZC9Rk0k7im3s3QokJhTbS0FOiHNmJdUtog-VaoYw',
+    image: 'https://media.licdn.com/dms/image/v2/D5603AQE6ALpNcMRFMQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726232038579?e=1740009600&v=beta&t=97wx786nPeDXCK14CkM7qEn8REBlvoSxiRhqL1jk9w4',
     text: "Teaming up with Aryan on our coursework and plant disease identification project was enlightening. His creative insights and practical assistance were invaluable, and his approachable nature significantly enhanced our collaboration and project success.",
     country: 'India',
     linkedIn: 'https://www.linkedin.com/in/vanshika-muniyal-ba6a9725b',
